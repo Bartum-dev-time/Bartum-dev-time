@@ -1,14 +1,15 @@
 <div id="header" align="center" text>
-<h1><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9kZnE5eTdkdDRvbjZsemN3MXBjeDVzY3F1ZGxvNWlnbzBhMHNhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif" width="100"/> Aloha!, mi nombre es <em><strong>Jonathan Orrego</strong></em> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9kZnE5eTdkdDRvbjZsemN3MXBjeDVzY3F1ZGxvNWlnbzBhMHNhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif" width="100"/>
+<h1>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9kZnE5eTdkdDRvbjZsemN3MXBjeDVzY3F1ZGxvNWlnbzBhMHNhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif" width="100"/> Aloha!, mi nombre es <em><strong>Jonathan Orrego</strong></em> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9kZnE5eTdkdDRvbjZsemN3MXBjeDVzY3F1ZGxvNWlnbzBhMHNhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif" width="100"/>
   </h1>
 </div>
 
 ### 🌱 I’m currently learning
-<br>
 
 <div>
+Me ha gustado aprender constantemente en general sobre las artes, un poco de video, fotografía, diseño de marca, naming, ilustración, en general de 3D, animación, gamificación y ahora estoy incursionando en este arte raro que son las líneas de código.
+<br> 
 Insert -> ritmo and goodpractices
-
 </div>
 
 ## Tech  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJqaWx5ejQ5eG13b2w5dmt6bDJ2aWUyZjJ1YXZyczFhc2lhNTRsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="50"/>
@@ -27,7 +28,6 @@ Insert -> ritmo and goodpractices
 #### 📎 Databases 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 #### 🗂️ Frameworks, Platforms and Libraries
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -54,7 +54,7 @@ Insert -> ritmo and goodpractices
 #### 😺 Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bartum-dev-time)
 <br>
 #### 🎨 Others
 
@@ -73,7 +73,6 @@ Insert -> ritmo and goodpractices
   </tr>
 </table>
 
-
 <div align="center">
 
 ## Socials  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGU1aGpoNGRsdHdsNHRzcmV6cXBqeDJlZnE0N2xlZG12ODZpczRocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JOKNhECjvsNSyEUaeM/giphy.gif" width="30"/>
@@ -82,12 +81,16 @@ Insert -> ritmo and goodpractices
 </picture> </a> <a href="https://www.youtube.com/@bartumtime5694" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> </picture> </a> <a href="https://vimeo.com/sujetopoetico" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vimeo-white-icon.png" width="32" height="32" /> </picture> </a></p>
 
 <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bartum-dev-time&show_icons=true&theme=tokyonight)
+
 <br>
 
 
-   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhuZTc1bHI5bHhiamRzZW45bDU2N2sydzJ3NHV4b2M1cnZqNHJ1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BC8uulpcR3Q0JDYe5S/giphy.gif" width="100"/> <br>
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExang0YTBnOXg5ZXAwbG84Znd1aDFiamlmd2pra2xrbnVqMTI0Y3R6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CN8RJQ9PWBk5y/giphy.gif" width="20"/>
-   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNoM3Z4b2dsMGZhdjlub3o4ZWNwa2dkdHc0eml4bnFyaGJreGhpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WyshNoKCjzPwbmwHyE/giphy.gif" width="100"/> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhuZTc1bHI5bHhiamRzZW45bDU2N2sydzJ3NHV4b2M1cnZqNHJ1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BC8uulpcR3Q0JDYe5S/giphy.gif" width="100"/>
+  <br>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExang0YTBnOXg5ZXAwbG84Znd1aDFiamlmd2pra2xrbnVqMTI0Y3R6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CN8RJQ9PWBk5y/giphy.gif" width="20"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNoM3Z4b2dsMGZhdjlub3o4ZWNwa2dkdHc0eml4bnFyaGJreGhpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WyshNoKCjzPwbmwHyE/giphy.gif" width="100"/> 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2gycWh6Zm1tdXZ3eG9zOHEwYzhoc3dhZnNlM3A4Z2FlbjRoeDQ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f4O2i2Z31HvU2BkCGf/giphy.gif" width="20"/>
 </div>
 
